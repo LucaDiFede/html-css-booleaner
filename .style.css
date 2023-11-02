@@ -1,0 +1,50 @@
+.testo-piccolo{
+  font-size: 75%;
+}
+
+
+tr:nth-child(1){
+  background-color: lightblue;
+  height: 60px;
+}
+
+.Tonino{
+  color: grey;
+}
+
+.Image1{
+  width: 20%;
+}
+
+.Image2{
+  width: 20%;
+}
+
+.h {
+  color:blue;
+  width: 3px;
+}
+
+.O {
+  color: grey;
+  width: 3px;
+}
+
+.n {
+  color: grey;
+  font-size: 70%;
+}
+
+.repeat {
+  width: 12%;
+  border: inline-block;
+  background-color: aqua;
+}
+
+.immagine {
+  background-color: aqua;
+}
+
+.color {
+  background-color: yellow;
+}
